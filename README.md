@@ -81,6 +81,16 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) (5k★) — detect scene cuts in video programmatically.
 
+## Motion graphics & programmatic video
+
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (65.7k★) — "Write HTML. Render video." HTML/CSS/GSAP → deterministic MP4 via headless Chrome + FFmpeg; 21 agent skills, built for the agent era. Apache-2.0.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) (102k★) — the open-source answer to Claude Motion: prompt → editable HTML/GSAP → MP4, works with any model via BYOK. Apache-2.0.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) (64.7k★) — real videos (MP4/WebM/GIF) from React code; every frame a pure function of its frame number. **Not MIT** — custom Remotion License: free for individuals and ≤3-person companies, paid beyond.
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) (41.6k★) — the Python animation engine behind 3Blue1Brown; unmatched for math/science explainers. MIT.
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) (19.4k★) — TypeScript generator-based animations with a real-time visual editor; the most precise API for hand-tuned explainers. MIT.
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) (15k★) — script-based video editing in Python: cuts, compositing, effects. MIT.
+- [redotvideo/revideo](https://github.com/redotvideo/revideo) (4.1k★) — headless, Remotion-like API for parameterized video rendering. MIT, but maintenance has slowed — test before committing.
+
 ## Design
 
 - [thesysdev/openui](https://github.com/thesysdev/openui) (10k★) — generate UI from prompts.
