@@ -80,6 +80,7 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 ## Video
 
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) (5k★) — detect scene cuts in video programmatically.
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) (9.7k★) — viral videos made with Claude Opus 5.5, each paired with the prompt behind it; originals shown next to live remakes on Skillry. A prompt library disguised as an awesome list.
 
 ## Motion graphics & programmatic video
 
