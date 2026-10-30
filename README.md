@@ -16,12 +16,14 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 - [google/skills](https://github.com/google/skills) (21k★) — Google's agent skills collection.
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) (6k★) — rulebook against generic AI output. **Independently audited**: installer only copies local files, no exfil, no eval; npm ~9.7k downloads/month.
 - [vtemian/octto](https://github.com/vtemian/octto) (521★) — small but active agent tooling.
-- [rsoffer/linus-level-skill](https://github.com/rsoffer/linus-level-skill) (17★) — the exception that proves the rule: tiny, but the *idea* (a 1–10 rigor dial for agents) is worth stealing.
 - [cline/cline](https://github.com/cline/cline) (71k★) — autonomous coding agent for VS Code; every tool call passes a human approval gate by default.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) (92k★) — autonomous dev agents in a sandbox: issues in, pull requests out.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) (56k★) — the extensible agent that goes past code into your whole machine; now stewarded by the Agentic AI Foundation.
-- [continuedev/continue](https://github.com/continuedev/continue) (36k★) — the open-source coding agent hub: bring your own model, keep your IDE.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (21k★) — Princeton's issue-to-fix agent; the research baseline every coding agent is measured against.
+- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) (9k★) — SWE-agent with everything removable removed: a ~100-line loop that still solves GitHub issues.
+- [zai-org/ZCode](https://github.com/zai-org/ZCode) (8.4k★) — Z.ai's coding agent harness: powerful, extensible, pushed daily.
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) (28k★) — xAI's coding agent harness: fullscreen TUI, mouse and all.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) (267k★) — DeepSeek's agent harness, "everything is a plugin". The star count is DeepSeek-grade loud; the plugin architecture is the substance.
 
 ## Agent frameworks & runtimes
 
@@ -80,13 +82,11 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 
 ## AI/ML & LLM apps
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) (250k★) — DeepSeek's agent harness.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (141k★) — the motherlode list of LLM apps.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (92k★) — open-source RAG engine.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) (111k★) — multi-agent trading framework.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) (67k★) — all-in-one AI app.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) (32k★) — automated short-form video generation.
-- [xai-org/grok-build](https://github.com/xai-org/grok-build) (27k★) — xAI's build tooling.
 
 ## Infra & remote access
 
