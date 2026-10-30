@@ -19,7 +19,6 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 - [cline/cline](https://github.com/cline/cline) (71k★) — autonomous coding agent for VS Code; every tool call passes a human approval gate by default.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) (92k★) — autonomous dev agents in a sandbox: issues in, pull requests out.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) (56k★) — the extensible agent that goes past code into your whole machine; now stewarded by the Agentic AI Foundation.
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (21k★) — Princeton's issue-to-fix agent; the research baseline every coding agent is measured against.
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) (9k★) — SWE-agent with everything removable removed: a ~100-line loop that still solves GitHub issues.
 - [zai-org/ZCode](https://github.com/zai-org/ZCode) (8.4k★) — Z.ai's coding agent harness: powerful, extensible, pushed daily.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) (28k★) — xAI's coding agent harness: fullscreen TUI, mouse and all.
