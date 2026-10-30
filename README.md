@@ -17,6 +17,33 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) (6k★) — rulebook against generic AI output. **Independently audited**: installer only copies local files, no exfil, no eval; npm ~9.7k downloads/month.
 - [vtemian/octto](https://github.com/vtemian/octto) (521★) — small but active agent tooling.
 - [rsoffer/linus-level-skill](https://github.com/rsoffer/linus-level-skill) (17★) — the exception that proves the rule: tiny, but the *idea* (a 1–10 rigor dial for agents) is worth stealing.
+- [cline/cline](https://github.com/cline/cline) (71k★) — autonomous coding agent for VS Code; every tool call passes a human approval gate by default.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) (92k★) — autonomous dev agents in a sandbox: issues in, pull requests out.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) (56k★) — the extensible agent that goes past code into your whole machine; now stewarded by the Agentic AI Foundation.
+- [continuedev/continue](https://github.com/continuedev/continue) (36k★) — the open-source coding agent hub: bring your own model, keep your IDE.
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (21k★) — Princeton's issue-to-fix agent; the research baseline every coding agent is measured against.
+
+## Agent frameworks & runtimes
+
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) (44k★) — agents as graphs: nodes, edges, checkpoints, human interrupts. The control-flow answer.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) (60k★) — role-playing agent crews: define agents, tasks, and a process; the crew runs itself.
+- [microsoft/autogen](https://github.com/microsoft/autogen) (62k★) — Microsoft's multi-agent framework; conversation between agents as the programming model.
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) (30k★) — OpenAI's own harness: agents, handoffs, guardrails, sessions. Light on purpose.
+- [agno-agi/agno](https://github.com/agno-agi/agno) (43k★) — the self-driving agent platform; memory, knowledge, and tools wired in from the start.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) (30k★) — Hugging Face's barebones take: agents that think in code, a ~1,000-line core.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) (29k★) — the TypeScript agent framework: workflows, memory, evals, in your stack's own language.
+- [letta-ai/letta](https://github.com/letta-ai/letta) (25k★) — stateful agents with self-editing memory, the MemGPT line. Main repo coasting lately; the memory model is still the reference.
+- [google/adk-python](https://github.com/google/adk-python) (22k★) — Google's code-first Agent Development Kit: build, evaluate, deploy.
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) (21k★) — type-safe agents from the Pydantic team; tools and outputs validated like data models.
+
+## MCP servers & agent tools
+
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) (92k★) — the official reference servers: filesystem, git, memory, fetch. The pattern book everyone copies.
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) (39k★) — browser control over accessibility snapshots instead of screenshots. The structured way in.
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) (34k★) — GitHub's official MCP server; toolsets slice the whole API by job.
+- [upstash/context7](https://github.com/upstash/context7) (64k★) — live library docs for agents: resolve a library, then query its docs. Two tools, zero fluff.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (7.7k★) — Firecrawl as MCP: scrape, crawl, map, and extract for agents.
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) (5.2k★) — Exa search and fetch as MCP tools; the agent's eyes on the live web.
 
 ## Reverse engineering & security
 
@@ -33,6 +60,12 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) (28k★) — stealth browser engine.
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) (4.8k★) — Playwright fork that dodges bot detection.
 - [ihuzaifashoukat/x-use](https://github.com/ihuzaifashoukat/x-use) (177★) — MCP server for X: research, inbox, reviewed publishing via your browser session.
+
+## Browser & data agents
+
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) (120k★) — the browser agent library: describe the task, it drives a real browser.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) (26k★) — web interaction split into three verbs: act, extract, observe. Deterministic where it can be, AI where it must be.
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) (23k★) — browser workflow automation with vision; forms and legacy enterprise sites are the target. AGPL-3.0.
 
 ## Filesystem & CLI
 
