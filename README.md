@@ -36,6 +36,7 @@ Dropped along the way: repos stale 9+ months and sub-500-star curiosities. Hype 
 - [letta-ai/letta](https://github.com/letta-ai/letta) (25k★) — stateful agents with self-editing memory, the MemGPT line. Main repo coasting lately; the memory model is still the reference.
 - [google/adk-python](https://github.com/google/adk-python) (22k★) — Google's code-first Agent Development Kit: build, evaluate, deploy.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) (21k★) — type-safe agents from the Pydantic team; tools and outputs validated like data models.
+- [trycua/cua](https://github.com/trycua/cua) (31k★) — computer-use agents at OS level: open-source drivers, cross-OS sandboxes, and the benchmarks to train and grade them.
 
 ## MCP servers & agent tools
 
